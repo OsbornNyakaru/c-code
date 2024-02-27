@@ -1,6 +1,4 @@
-// OSBORN NYAKARU
-// EB1/62583/22
-// ***************************************************************************
+
 /*A program calculating the net pay of an employee given a gross pay of 20000
   Tax rate is 16% of the gross pay, NHIF is 2% of gross pay, housing levy of 3% of gross pay*/
 // ***************************************************************************
