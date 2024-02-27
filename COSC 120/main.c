@@ -1,5 +1,4 @@
-// LAMECK JUMA 
-// EB1/61391/22
+
 
 //  A C program that calculates the net pay of an employee given that the gross 
 //     pay is 20000, tax rate is 16% of gross pay, NHIF is 2% of gross pay housing levy 3% of gross pay 
